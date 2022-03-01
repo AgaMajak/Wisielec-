@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 958612d54d970504da8a4b286b67aae5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startingPoint: {instanceID: 0}
+  - rope: {instanceID: 0}
+  - cameraFollow: {instanceID: 0}
+  - gnomePrefab: {fileID: 4433056777779116379, guid: 84d01845ee72ac74fb2c5cec52982a45, type: 3}
+  - mainMenu: {instanceID: 0}
+  - gameplayMenu: {instanceID: 0}
+  - gameOverMenu: {instanceID: 0}
+  - gnomeDiedSound: {instanceID: 0}
+  - gameOverSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
